@@ -1,3 +1,2 @@
-# resilience-v2
-
-Article about resilience-v2.
+## What really is resilience?
+Resilience is an overused buzzword with many meanings for many people. Nevertheless, it's an important ecological and social term. This post brings resilience to life in a way that conservation managers, communities, and anyone who cares about forest health can use. Then we offer case studies of what resilience looks like in real life and provide some resources to integrate resilience across natural and human landscapes.

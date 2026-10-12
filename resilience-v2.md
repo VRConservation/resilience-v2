@@ -11,7 +11,7 @@ authors:
     email: vance@3point.xyz
 keywords: 
 abstract: |
-  Add abstract here
+  Resilience is an overused buzzword with many meanings for many people. Nevertheless, it's an important ecological and social term. This post brings resilience to life in a way that conservation managers, communities, and anyone who cares about forest health can use. Then we offer case studies of what resilience looks like in real life and provide some resources to integrate resilience across natural and human landscapes.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -45,7 +45,7 @@ In the early 2010s, Vance spent the better part of a day looking at postfire ref
 
 You might think you know what resilience is, but chances are it’s an oversimplified definition. Resilience has become a buzzword in recent years but often is conflated to mean bouncing back after a shock. While that is part of the definition, this  can lead us to design ineffective strategies and interventions. The solution is to get back to the true definition of ecological resilience. When we develop solutions and interventions that mimic natural systems, we’ll be more successful at achieving resilience—for nature AND communities.  
 
-This blog brings the definition of resilience to life in a way that can be used by conservation managers, communities, and anyone who cares about the health of forests. Then we offer case studies of what resilience looks like in real life.  
+This post brings the definition of resilience to life in a way that can be used by conservation managers, communities, and anyone who cares about the health of forests. Then we offer case studies of what resilience looks like in real life.  
 
 ## Definition
 Ecologists and land managers frequently use the concept of resilience. For some, it is a combination of resilience and resistance, where resilience is the ability of an ecosystem to experience disturbance and then return to its pre-disturbance condition. Resistance is the ability of an ecosystem to withstand disturbance without any measurable ecosystem changes. @brand offer a useful resilience synthesis with an organizing typology, noting the tension between the original ecological descriptive definition of resilience with the more recent, vague, and malleable notions of resilience. A useful visualization of the degrees of resilience changes as a function of tree stress and disturbance ({numref}`resil-diag`).
@@ -94,7 +94,8 @@ We can no longer afford to keep resilient strategies as fringe or abstract conce
 
 Forest resilience is a crucial component of forest management that will be necessary to ensure that our ecosystems and forest industries survive and thrive under climate change. 
 
-Vance Russell,  vrconservationcollective.com , is a conservation and forestry consultant Elizabeth Schuster,  sustainableeconomiesconsulting.com , is an environmental economist
+Vance Russell,  3point.xyz, is a conservation and forestry consultant 
+Elizabeth Schuster, sustainableeconomiesconsulting.com, is an environmental economist
 
 # Resources
 
