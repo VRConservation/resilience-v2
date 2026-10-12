@@ -37,6 +37,14 @@ exports:
 Here is the text for an important dropdown
 :::
 # Resilience
+Forests throughout California are unhealthy due to a century of fire suppression and the rapidly changing conditions due to climate change. Thinning small-diameter trees followed by prescribed fire is a way to return resilience to wildfire-prone forests ({numref}`resto-fire`).
+
+:::{figure} resto.png
+:label: resto-fire
+:height: 400
+Restoration vs. no action in fire suppressed forests (Adapted from Save the Redwoods League).
+:::
+
 # Background
 On October 13, 2022, Vance Russell and Elizabeth Schuster published a storymap called "WTF is Resilience, Anyway? Applying Resilience to Conservation Landscapes". This is an updated version of that article.
 
